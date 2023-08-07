@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>846536249514-4qv0tqo7korng9c4sbuflfl2u94rrvte.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.846536249514-4qv0tqo7korng9c4sbuflfl2u94rrvte</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>846536249514-334ifb8ip0no1q57igntehrtvlvqnm9q.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDxAxUOfJknZtFieh0AKJAcZIEhJX_-9eU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>846536249514</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.dhoom.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>dhoom-fb1c6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dhoom-fb1c6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:846536249514:ios:22eee737a28a27a2e600d3</string>
+</dict>
+</plist>

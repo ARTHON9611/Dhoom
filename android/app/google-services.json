@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "846536249514",
+    "project_id": "dhoom-fb1c6",
+    "storage_bucket": "dhoom-fb1c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846536249514:android:9fe212a6149937a7e600d3",
+        "android_client_info": {
+          "package_name": "com.example.dhoom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846536249514-334ifb8ip0no1q57igntehrtvlvqnm9q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dhoom",
+            "certificate_hash": "f7e96e75b5d9d114f5416030c3af320d5a5b1318"
+          }
+        },
+        {
+          "client_id": "846536249514-dgug5fcljjmbq376lkvuu6svcsf1e5rj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9RoYDkrcAXtiPqzC56c7jlPzG8FsomtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846536249514-dgug5fcljjmbq376lkvuu6svcsf1e5rj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
