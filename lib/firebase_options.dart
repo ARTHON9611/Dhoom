@@ -44,41 +44,41 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCDWrNNWMuWVr6KYuGRoSKK-FDi9yOD_Nk',
-    appId: '1:846536249514:web:b4a1211e222936f6e600d3',
-    messagingSenderId: '846536249514',
-    projectId: 'dhoom-fb1c6',
-    authDomain: 'dhoom-fb1c6.firebaseapp.com',
-    storageBucket: 'dhoom-fb1c6.appspot.com',
+    apiKey: 'AIzaSyAzhynT3_kqPl7vVJCSE3uO34fvyKZ-krs',
+    appId: '1:443728162015:web:567d3e6da1b408a4ce4d6a',
+    messagingSenderId: '443728162015',
+    projectId: 'video-calling-d2336',
+    authDomain: 'video-calling-d2336.firebaseapp.com',
+    storageBucket: 'video-calling-d2336.appspot.com',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB9RoYDkrcAXtiPqzC56c7jlPzG8FsomtQ',
-    appId: '1:846536249514:android:9fe212a6149937a7e600d3',
-    messagingSenderId: '846536249514',
-    projectId: 'dhoom-fb1c6',
-    storageBucket: 'dhoom-fb1c6.appspot.com',
+    apiKey: 'AIzaSyACWS3_NRryIxUzrai6L5sHVij_TCShnnY',
+    appId: '1:443728162015:android:2a339d867192afadce4d6a',
+    messagingSenderId: '443728162015',
+    projectId: 'video-calling-d2336',
+    storageBucket: 'video-calling-d2336.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDxAxUOfJknZtFieh0AKJAcZIEhJX_-9eU',
-    appId: '1:846536249514:ios:a42baedc19f3bbb6e600d3',
-    messagingSenderId: '846536249514',
-    projectId: 'dhoom-fb1c6',
-    storageBucket: 'dhoom-fb1c6.appspot.com',
-    androidClientId: '846536249514-334ifb8ip0no1q57igntehrtvlvqnm9q.apps.googleusercontent.com',
-    iosClientId: '846536249514-4p6jutts8sn955qdn01s5gps8oleis2m.apps.googleusercontent.com',
+    apiKey: 'AIzaSyDai3Bo8Fv7vO1K9J-na-7lbwH58IakzEI',
+    appId: '1:443728162015:ios:4d36a3c4933ebce8ce4d6a',
+    messagingSenderId: '443728162015',
+    projectId: 'video-calling-d2336',
+    storageBucket: 'video-calling-d2336.appspot.com',
+    androidClientId: '443728162015-hct9ngsgqn4147tbqesgmhpq3n62tt0r.apps.googleusercontent.com',
+    iosClientId: '443728162015-4f2jhfkvvejngil035on25b1sloh100p.apps.googleusercontent.com',
     iosBundleId: 'com.example.dhoom',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDxAxUOfJknZtFieh0AKJAcZIEhJX_-9eU',
-    appId: '1:846536249514:ios:22eee737a28a27a2e600d3',
-    messagingSenderId: '846536249514',
-    projectId: 'dhoom-fb1c6',
-    storageBucket: 'dhoom-fb1c6.appspot.com',
-    androidClientId: '846536249514-334ifb8ip0no1q57igntehrtvlvqnm9q.apps.googleusercontent.com',
-    iosClientId: '846536249514-4qv0tqo7korng9c4sbuflfl2u94rrvte.apps.googleusercontent.com',
+    apiKey: 'AIzaSyDai3Bo8Fv7vO1K9J-na-7lbwH58IakzEI',
+    appId: '1:443728162015:ios:3faf84e543c3cc41ce4d6a',
+    messagingSenderId: '443728162015',
+    projectId: 'video-calling-d2336',
+    storageBucket: 'video-calling-d2336.appspot.com',
+    androidClientId: '443728162015-hct9ngsgqn4147tbqesgmhpq3n62tt0r.apps.googleusercontent.com',
+    iosClientId: '443728162015-l0vtse2ecn8vv558qdnqb9r7mpri6fs4.apps.googleusercontent.com',
     iosBundleId: 'com.example.dhoom.RunnerTests',
   );
 }

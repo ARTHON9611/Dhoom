@@ -1,42 +1,49 @@
 {
   "project_info": {
-    "project_number": "846536249514",
-    "project_id": "dhoom-fb1c6",
-    "storage_bucket": "dhoom-fb1c6.appspot.com"
+    "project_number": "443728162015",
+    "project_id": "video-calling-d2336",
+    "storage_bucket": "video-calling-d2336.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:846536249514:android:9fe212a6149937a7e600d3",
+        "mobilesdk_app_id": "1:443728162015:android:2a339d867192afadce4d6a",
         "android_client_info": {
           "package_name": "com.example.dhoom"
         }
       },
       "oauth_client": [
         {
-          "client_id": "846536249514-334ifb8ip0no1q57igntehrtvlvqnm9q.apps.googleusercontent.com",
+          "client_id": "443728162015-iqsrl5nulfufbbsqg7t1biqo2h65an5l.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.dhoom",
-            "certificate_hash": "f7e96e75b5d9d114f5416030c3af320d5a5b1318"
+            "certificate_hash": "37c39f5761fcf8652d5f3928ef0e48640aacad13"
           }
         },
         {
-          "client_id": "846536249514-dgug5fcljjmbq376lkvuu6svcsf1e5rj.apps.googleusercontent.com",
+          "client_id": "443728162015-jsqf3st9uut1h4ld0e9c9eu20t530lhm.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB9RoYDkrcAXtiPqzC56c7jlPzG8FsomtQ"
+          "current_key": "AIzaSyACWS3_NRryIxUzrai6L5sHVij_TCShnnY"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "846536249514-dgug5fcljjmbq376lkvuu6svcsf1e5rj.apps.googleusercontent.com",
+              "client_id": "443728162015-jsqf3st9uut1h4ld0e9c9eu20t530lhm.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "443728162015-a7u3eail2gvhkpipmvkou849blr9s594.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.videoCallApp"
+              }
             }
           ]
         }
